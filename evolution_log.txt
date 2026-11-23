@@ -1,0 +1,255 @@
+======================================================================
+EVOLUTION LOG - GENETIC ALGORITHM (timetable)
+Population=150 | Tournament k=4 | Crossover=0.9 | Mutation=0.03 | Elites=5
+======================================================================
+
+[Generation 0] Initial population (random)
+  Best=1524 | Average=2621.3 | Worst=3837
+  Top 5 : ind68(1524), ind139(1614), ind21(1625), ind117(1626), ind114(1734)
+  Elites kept : ind68(1524), ind139(1614), ind21(1625), ind117(1626), ind114(1734)
+  Children 1-2 : selected parents ind37(fit=2634) x ind87(fit=2339) | crossover=yes
+     child A : MUTATION #09 Algorithms-G2 : Thu-S2/B1 -> Tue-S2/B1
+     child A : MUTATION #17 AI-G1 : Sun-S4/B1 -> Mon-S1/B1
+     child B : no mutation
+  Children 3-4 : selected parents ind130(fit=2128) x ind53(fit=2633) | crossover=yes
+     child A : MUTATION #08 Algorithms-G1 : Mon-S5/A1 -> Mon-S5/B1
+     child B : MUTATION #03 Maths-G2 : Thu-S4/A2 -> Tue-S2/A2
+  Children 5-6 : selected parents ind95(fit=2329) x ind90(fit=1738) | crossover=yes
+     child A : no mutation
+     child B : MUTATION #01 Maths-G1 : Thu-S5/A2 -> Sun-S3/A2
+  Total mutations in this generation : 129 (over 145 children)
+
+[Generation 1]
+  Best=1325 | Average=2232.9 | Worst=3227
+  Top 5 : ind18(1325), ind149(1422), ind107(1522), ind0(1524), ind92(1532)
+  Elites kept : ind18(1325), ind149(1422), ind107(1522), ind0(1524), ind92(1532)
+  Children 1-2 : selected parents ind80(fit=2128) x ind97(fit=1827) | crossover=yes
+     child A : MUTATION #02 Maths-G1 : Thu-S4/A1 -> Thu-S4/A2
+     child B : MUTATION #07 Algorithms-G1 : Mon-S5/Labo -> Thu-S5/A2
+  Children 3-4 : selected parents ind49(fit=1834) x ind78(fit=1921) | crossover=yes
+     child A : no mutation
+     child B : MUTATION #06 Algorithms-G1 : Tue-S5/Labo -> Mon-S2/A1
+     child B : MUTATION #08 Algorithms-G1 : Mon-S1/A1 -> Thu-S5/A1
+     child B : MUTATION #13 Databases-G1 : Thu-S5/Labo -> Thu-S5/B1
+     child B : MUTATION #22 English-G1 : Thu-S3/B1 -> Thu-S3/A2
+  Children 5-6 : selected parents ind27(fit=2129) x ind59(fit=2025) | crossover=yes
+     child A : MUTATION #05 Maths-G2 : Thu-S4/A2 -> Mon-S2/A2
+     child B : MUTATION #10 Algorithms-G2 : Mon-S3/B1 -> Mon-S3/Labo
+     child B : MUTATION #26 Networks-G1 : Thu-S4/A1 -> Wed-S2/B1
+  Total mutations in this generation : 145 (over 145 children)
+
+[Generation 2]
+  Best=1020 | Average=2000.6 | Worst=2941
+  Top 5 : ind27(1020), ind25(1231), ind0(1325), ind70(1325), ind55(1330)
+  Elites kept : ind27(1020), ind25(1231), ind0(1325), ind70(1325), ind55(1330)
+  Children 1-2 : selected parents ind118(fit=1614) x ind16(fit=2018) | crossover=yes
+     child A : MUTATION #04 Maths-G2 : Thu-S2/A2 -> Thu-S2/Labo
+     child B : MUTATION #02 Maths-G1 : Wed-S5/A1 -> Wed-S2/A1
+     child B : MUTATION #21 AI-G2 : Mon-S1/A1 -> Mon-S2/A2
+     child B : MUTATION #25 English-G2 : Thu-S5/Labo -> Tue-S1/Labo
+  Children 3-4 : selected parents ind76(fit=1626) x ind54(fit=1625) | crossover=yes
+     child A : MUTATION #09 Algorithms-G2 : Sun-S2/B1 -> Thu-S1/B1
+     child A : MUTATION #13 Databases-G1 : Sun-S5/Labo -> Thu-S1/Labo
+     child B : MUTATION #02 Maths-G1 : Tue-S3/A1 -> Mon-S5/A1
+  Children 5-6 : selected parents ind27(fit=1020) x ind56(fit=1629) | crossover=yes
+     child A : MUTATION #13 Databases-G1 : Thu-S5/Labo -> Mon-S1/Labo
+     child B : no mutation
+  Total mutations in this generation : 136 (over 145 children)
+
+[Generation 3]
+  Best=1020 | Average=1885.2 | Worst=3024
+
+[Generation 4]
+  Best=1020 | Average=1714.7 | Worst=2842
+
+[Generation 5]
+  Best=1020 | Average=1662.4 | Worst=2635
+
+[Generation 6]
+  Best=829 | Average=1567.2 | Worst=2623
+
+[Generation 7]
+  Best=628 | Average=1399.4 | Worst=2142
+
+[Generation 8]
+  Best=628 | Average=1300.4 | Worst=2232
+
+[Generation 9]
+  Best=425 | Average=1144.5 | Worst=1934
+
+[Generation 10]
+  Best=421 | Average=1058.4 | Worst=1830
+  Mutations in this generation : 115
+
+[Generation 11]
+  Best=421 | Average=958.8 | Worst=1736
+
+[Generation 12]
+  Best=321 | Average=850.9 | Worst=1822
+
+[Generation 13]
+  Best=223 | Average=766.6 | Worst=1637
+
+[Generation 14]
+  Best=124 | Average=645.4 | Worst=1827
+
+[Generation 15]
+  Best=124 | Average=578.2 | Worst=1520
+
+[Generation 16]
+  Best=121 | Average=501.7 | Worst=1534
+
+[Generation 17]
+  Best=20 | Average=446.2 | Worst=1039
+
+[Generation 18]
+  Best=20 | Average=388.1 | Worst=1130
+
+[Generation 19]
+  Best=20 | Average=313.1 | Worst=932
+
+[Generation 20]
+  Best=15 | Average=260.6 | Worst=929
+  Mutations in this generation : 134
+
+[Generation 21]
+  Best=15 | Average=251.2 | Worst=922
+
+[Generation 22]
+  Best=15 | Average=221.7 | Worst=720
+
+[Generation 23]
+  Best=13 | Average=193.0 | Worst=735
+
+[Generation 24]
+  Best=12 | Average=178.5 | Worst=832
+
+[Generation 25]
+  Best=10 | Average=132.0 | Worst=722
+
+[Generation 26]
+  Best=10 | Average=131.9 | Worst=817
+
+[Generation 27]
+  Best=7 | Average=119.6 | Worst=924
+
+[Generation 28]
+  Best=7 | Average=119.6 | Worst=519
+
+[Generation 29]
+  Best=7 | Average=128.1 | Worst=818
+
+[Generation 30]
+  Best=7 | Average=119.4 | Worst=520
+  Mutations in this generation : 132
+
+[Generation 31]
+  Best=7 | Average=97.2 | Worst=419
+
+[Generation 32]
+  Best=7 | Average=101.1 | Worst=422
+
+[Generation 33]
+  Best=7 | Average=111.1 | Worst=729
+
+[Generation 34]
+  Best=7 | Average=124.9 | Worst=625
+
+[Generation 35]
+  Best=7 | Average=96.1 | Worst=521
+
+[Generation 36]
+  Best=6 | Average=121.4 | Worst=709
+
+[Generation 37]
+  Best=6 | Average=137.0 | Worst=721
+
+[Generation 38]
+  Best=6 | Average=155.6 | Worst=619
+
+[Generation 39]
+  Best=6 | Average=136.9 | Worst=624
+
+[Generation 40]
+  Best=6 | Average=123.8 | Worst=618
+  Mutations in this generation : 128
+
+[Generation 41]
+  Best=6 | Average=132.1 | Worst=719
+
+[Generation 42]
+  Best=6 | Average=114.7 | Worst=519
+
+[Generation 43]
+  Best=6 | Average=143.6 | Worst=622
+
+[Generation 44]
+  Best=6 | Average=138.7 | Worst=619
+
+[Generation 45]
+  Best=6 | Average=108.6 | Worst=615
+
+[Generation 46]
+  Best=5 | Average=114.0 | Worst=514
+
+[Generation 47]
+  Best=5 | Average=119.1 | Worst=613
+
+[Generation 48]
+  Best=5 | Average=121.6 | Worst=715
+
+[Generation 49]
+  Best=4 | Average=113.6 | Worst=821
+
+[Generation 50]
+  Best=4 | Average=115.1 | Worst=621
+  Mutations in this generation : 114
+
+[Generation 51]
+  Best=3 | Average=98.3 | Worst=614
+
+[Generation 52]
+  Best=3 | Average=101.5 | Worst=516
+
+[Generation 53]
+  Best=3 | Average=107.5 | Worst=514
+
+[Generation 54]
+  Best=2 | Average=100.9 | Worst=510
+
+[Generation 55]
+  Best=2 | Average=99.9 | Worst=518
+
+[Generation 56]
+  Best=2 | Average=108.8 | Worst=713
+
+[Generation 57]
+  Best=2 | Average=114.6 | Worst=1011
+
+[Generation 58]
+  Best=2 | Average=100.2 | Worst=512
+
+[Generation 59]
+  Best=1 | Average=90.9 | Worst=716
+
+[Generation 60]
+  Best=1 | Average=106.0 | Worst=606
+  Mutations in this generation : 132
+
+[Generation 61]
+  Best=1 | Average=111.4 | Worst=511
+
+[Generation 62]
+  Best=1 | Average=121.9 | Worst=712
+
+[Generation 63]
+  Best=1 | Average=99.9 | Worst=612
+
+[Generation 64]
+  Best=0 | Average=136.9 | Worst=715
+
+>>> PERFECT SOLUTION (penalty 0) at generation 64
+
+======================================================================
+Best solution found at generation 64 (penalty = 0)
+======================================================================
